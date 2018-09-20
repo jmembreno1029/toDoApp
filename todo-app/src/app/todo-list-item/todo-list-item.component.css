@@ -1,0 +1,16 @@
+button {
+    background-color: red;
+    color: white;
+    font-weight: 300;
+    font-size: 15px;
+    padding: 6px;
+    margin: 1em;
+
+}
+
+.toggle {    
+    margin: 1em;    
+    width:20px;
+    height:20px;
+}
+
